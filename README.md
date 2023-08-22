@@ -73,7 +73,7 @@ El programa solo realiza la conversión de monedas, falta por implementar la par
 
 ## Licencia.
 
-Este proyecto está bajo la Licencia (Tu Licencia)
+Este proyecto está bajo la Licencia (lgpl-3.0)
 
 
 
