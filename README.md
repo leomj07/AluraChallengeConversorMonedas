@@ -28,9 +28,7 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+*[Licencia](#licencia)
 
 ## Descripción del Proyecto
 ## Estado del proyecto
