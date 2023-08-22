@@ -4,5 +4,6 @@ Challenge 1 alura conversor de monedas
 ![GitHub language count](https://img.shields.io/github/languages/count/leomj07/AluraChallengeConversorMonedas)
 ![GitHub top language](https://img.shields.io/github/languages/top/leomj07/AluraChallengeConversorMonedas)
 ![GitHub all releases](https://img.shields.io/github/downloads/leomj07/AluraChallengeConversorMonedas/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/leomj07/AluraChallengeConversorMonedas)
 
 
