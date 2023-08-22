@@ -56,7 +56,8 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 El programa solo realiza la conversión de monedas, falta por implementar la parte del calculo de temperatura la cual se encuentra en desarrollo.
 
 ## :hammer: Demostración de funciones y aplicaciones
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: Convertir de la moneda de tu país a Dolar, Euros, Libras Esterlinas, Yen Japonés y Won sul-coreano.
+- `Funcionalidad 2`: Convertir de Dolar, Euros, Libras Esterlinas, Yen Japonés y Won sul-coreano a la moneda de tu país.
 
 
 ## Acceso al Proyecto
