@@ -59,11 +59,17 @@ El programa solo realiza la conversión de monedas, falta por implementar la par
 - `Funcionalidad 1`: Convertir de la moneda de tu país a Dolar, Euros, Libras Esterlinas, Yen Japonés y Won sul-coreano.
 - `Funcionalidad 2`: Convertir de Dolar, Euros, Libras Esterlinas, Yen Japonés y Won sul-coreano a la moneda de tu país.
 
-
 ## Acceso al Proyecto
+\## 📁 Acceso al proyecto
+**https://github.com/leomj07/AluraChallengeConversorMonedas.git**
+
 ## Tecnologías utilizadas
-## Personas Contribuyentes
+      - Java 8
+      - Eclipse
+      
 ## Personas Desarrolladoras del Proyecto
+      ## Autores
+      * **Rodriguez Martinez** - *Developer Java* - [developer]()
 ## Licencia.
 
 
