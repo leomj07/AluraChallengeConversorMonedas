@@ -68,10 +68,12 @@ El programa solo realiza la conversión de monedas, falta por implementar la par
       - Eclipse
       
 ## Personas Desarrolladoras del Proyecto
-      ## Autores
-      * **Rodriguez Martinez** - *Developer Java* - [developer]()
+
+* **Rodriguez Martinez** - *Developer Java* - **[developer](https://github.com/leomj07/AluraChallengeConversorMonedas.git)**
+
 ## Licencia.
 
+Este proyecto está bajo la Licencia (Tu Licencia)
 
 
 
